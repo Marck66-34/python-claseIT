@@ -1,0 +1,14 @@
+PARTE 1:
+- La jornada de trabajo es de 48 horas (no se pueden trabajar menos horas), solicitar las horas trabajadas y, con el valor por hora y el valor por hora extra, debe mostrar:.
+ * Horas extras trabajadas (si las hubiera)
+ * Mostrar el pago total de horas extras (si las hubiera).
+ * Mostrar el pago total de la jornada
+
+VARIABLES
+jornada = 48 hs
+vh = 15 $(valor de pago por hora normal)
+he = 20 $(valor de pago por hora extra)
+ht = ? (Ingreso)
+
+PARTE 2:
+- Calcular el mismo problema pero teniendo en cuenta que las horas de trabajo pueden ser menor a 48
