@@ -2,7 +2,7 @@
 numeros =[1,2,4];
 suma=0;
 for numero in numeros:
-    suma = + numero;
+    suma = suma + numero;
 print("la suma es:",suma);
 
 #multiplicar una lista
